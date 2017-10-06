@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PatchCodeCreator</name>
+    </assembly>
+    <members>
+        <member name="F:PatchCodeCreator.AnalyzeForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PatchCodeCreator.AnalyzeForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PatchCodeCreator.AnalyzeForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PatchCodeCreator.Function_Definition_View.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PatchCodeCreator.Function_Definition_View.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PatchCodeCreator.Function_Definition_View.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PatchCodeCreator.PatchesParent.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PatchCodeCreator.PatchesParent.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PatchCodeCreator.PatchesParent.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:PatchCodeCreator.Form_Patch.ToolStripMenuItem_FunctionDefinitions_ItemClicked(System.Object,System.EventArgs)">
+            <summary>
+            Called when the menu item to show function definitions is pressed.
+            This orders that the patch form is hidden and the function definitions form is shown.
+            A handler is attached to the function definitions form for when it closes
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:PatchCodeCreator.Form_Patch.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PatchCodeCreator.Form_Patch.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:PatchCodeCreator.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:PatchCodeCreator.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:PatchCodeCreator.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:PatchCodeCreator.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:PatchCodeCreator.Properties.Resources.UnknownImage">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="F:PatchCodeCreator.Form_SelectMode.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PatchCodeCreator.Form_SelectMode.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PatchCodeCreator.Form_SelectMode.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>
